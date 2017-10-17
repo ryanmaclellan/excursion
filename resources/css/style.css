@@ -1,0 +1,31 @@
+body{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.link{
+  font-color: aquamarine;
+  font-size: 16px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px
+}
+
+.describe{
+  font-size: 21px;
+  color: gray;
+}
+
+.copywrite{
+  text-align: right;
+  color: Gray;
+}
